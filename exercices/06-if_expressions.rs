@@ -54,7 +54,7 @@
 /// ```
 fn is_leap_year(year: u32) -> bool {
     // Cette macro crash le programme si appellée pratique pour écrire
-    // un skelette de fonction et ensuite programmer.
+    // un squelette de fonction et ensuite programmer.
     unimplemented!("C'est à vous de jouer! ;)")
 }
 
